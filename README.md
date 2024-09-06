@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-hamza-khan-03&show_icons=true&cache_seconds=1800&locale=en" alt="muhammad-hamza-khan-03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hamza-khan-03&" alt="muhammad-hamza-khan-03" /></p>
+
