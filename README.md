@@ -5,7 +5,7 @@
 <h1 align="center">Muhammad Hamza Khan</h1>
 
 <h3 align="center">
-  Full-Stack AI Engineer · Data Science Graduate
+  Full-Stack AI Engineer · Data Scientist
 </h3>
 
 <p align="center">
@@ -37,9 +37,7 @@
 <h2>About</h2>
 
 <p>
-I'm a <b>Full-Stack AI Engineer</b> with a background in <b>Data Science</b>.
-I work on production software where AI is part of a larger system — connected to
-APIs, databases, queues, background jobs, user interfaces, testing, and deployment.
+I'm a <b>Full-Stack AI Engineer and Data Scientist</b> with a background in <b>Data Science</b> working across production AI systems, machine learning, backend engineering, and full-stack applications.
 </p>
 
 <p>
@@ -157,17 +155,18 @@ and ML model serving.
 
 <h2>Projects</h2>
 
-<h3>
+<h3>AI & Software Engineering</h3>
+
+<h4>
   <a href="https://github.com/LeoRigasaki/InSightAI">
     Insight AI
   </a>
-</h3>
+</h4>
 
 <p>
   <strong>LLM-powered data analysis system.</strong>
-  Built for natural-language interaction with datasets, including automated analysis,
-  code generation, data cleaning, visualizations, SQL queries, report generation,
-  and multi-model support.
+  Supports natural-language analysis, code generation, data cleaning,
+  visualization, SQL queries, automated reports, and multiple LLM providers.
 </p>
 
 <p>
@@ -180,46 +179,16 @@ and ML model serving.
   <code>SQL</code>
 </p>
 
-<br>
-
-<h3>
-  <a href="https://github.com/Muhammad-Hamza-Khan-03/NexusDrive-Meta">
-    NexusDrive
-  </a>
-</h3>
-
-<p>
-  <strong>Delivery ETA and delay-risk analytics system.</strong>
-  Built across data ingestion, machine learning, model serving, caching,
-  experiment tracking, and a React dashboard for delivery predictions and risk analysis.
-</p>
-
-<p>
-  <code>Python</code>
-  <code>FastAPI</code>
-  <code>Airflow</code>
-  <code>PostgreSQL</code>
-  <code>Scikit-learn</code>
-  <code>MLflow</code>
-  <code>Redis</code>
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>Docker</code>
-</p>
-
-<br>
-
-<h3>
+<h4>
   <a href="https://github.com/Muhammad-Hamza-Khan-03/Elegance-Shawls">
     Elegance Shawls
   </a>
-</h3>
+</h4>
 
 <p>
   <strong>Full-stack e-commerce application.</strong>
-  Built with a Next.js storefront and FastAPI backend, including product catalogue
-  management, authenticated admin operations, MongoDB persistence, automated testing,
-  CI, health checks, and Docker-based deployment.
+  Next.js storefront with a FastAPI backend, product and inventory management,
+  authenticated admin operations, testing, CI, health checks, and Docker deployment.
 </p>
 
 <p>
@@ -227,26 +196,89 @@ and ML model serving.
   <code>React</code>
   <code>TypeScript</code>
   <code>FastAPI</code>
-  <code>Python</code>
   <code>MongoDB</code>
   <code>Docker</code>
-  <code>GitHub Actions</code>
   <code>Playwright</code>
+</p>
+
+<h4>
+  <a href="https://github.com/Muhammad-Hamza-Khan-03/youtube_to_discord">
+    YouTube to Discord
+  </a>
+</h4>
+
+<p>
+  <strong>Automated research and content pipeline.</strong>
+  Processes YouTube transcripts into research insights and draft content
+  using LangGraph, multiple LLM providers, persistent storage, testing, and monitoring.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>LangGraph</code>
+  <code>Groq</code>
+  <code>Gemini</code>
+  <code>SQLite</code>
+  <code>Prometheus</code>
+</p>
+
+<h4>
+  <a href="https://github.com/Muhammad-Hamza-Khan-03/AI_Research_Assistant-micro-orchestrator">
+    AI Research Assistant
+  </a>
+</h4>
+
+<p>
+  <strong>FastAPI research and analysis service.</strong>
+  Explores LLM workflow orchestration with LangChain and LangGraph,
+  separating API routes, services, schemas, tools, and data layers.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>FastAPI</code>
+  <code>LangChain</code>
+  <code>LangGraph</code>
+  <code>Redis</code>
+  <code>PostgreSQL</code>
 </p>
 
 <br>
 
-<h3>
+<h3>Data Science & Machine Learning</h3>
+
+<h4>
+  <a href="https://github.com/Muhammad-Hamza-Khan-03/NexusDrive-Meta">
+    NexusDrive
+  </a>
+</h4>
+
+<p>
+  <strong>Delivery ETA and delay-risk analytics system.</strong>
+  Combines data ingestion, feature processing, machine learning,
+  FastAPI model serving, experiment tracking, caching, and a React dashboard.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>Scikit-learn</code>
+  <code>Airflow</code>
+  <code>FastAPI</code>
+  <code>PostgreSQL</code>
+  <code>MLflow</code>
+  <code>Redis</code>
+</p>
+
+<h4>
   <a href="https://github.com/Muhammad-Hamza-Khan-03/Ecommerce-Company-Customer-Churn-Predicton">
     E-commerce Customer Churn Prediction
   </a>
-</h3>
+</h4>
 
 <p>
-  <strong>Applied machine learning and model explainability project.</strong>
-  Analyzed customer churn across 5,631 records and 20 features, comparing multiple
-  classification models with class balancing, feature selection, cross-validation,
-  and explainable predictions using SHAP and LIME.
+  <strong>Machine learning and model explainability project.</strong>
+  Analyzed 5,631 customer records across 20 features using model comparison,
+  class balancing, feature selection, cross-validation, SHAP, and LIME.
 </p>
 
 <p>
@@ -256,7 +288,48 @@ and ML model serving.
   <code>XGBoost</code>
   <code>SHAP</code>
   <code>LIME</code>
+</p>
+
+<h4>
+  <a href="https://github.com/Muhammad-Hamza-Khan-03/Airbnb-Sentiment-Driven-Revenue-optimization">
+    Airbnb Sentiment & Revenue Analysis
+  </a>
+</h4>
+
+<p>
+  <strong>Sentiment-driven property analysis project.</strong>
+  Explores how review sentiment can complement traditional ratings
+  for property recommendations and revenue prediction.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>NLP</code>
   <code>Machine Learning</code>
+  <code>Naive Bayes</code>
+  <code>SVM</code>
+  <code>Decision Trees</code>
+</p>
+
+<h4>
+  <a href="https://github.com/Muhammad-Hamza-Khan-03/SpotifySentimeter">
+    SpotifySentimeter
+  </a>
+</h4>
+
+<p>
+  <strong>NLP and sentiment analysis project for music data.</strong>
+  Collects song metadata and lyrics, applies VADER sentiment analysis,
+  performs exploratory analysis, and experiments with neural-network-based prediction.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>NLP</code>
+  <code>VADER</code>
+  <code>Pandas</code>
+  <code>NumPy</code>
+  <code>Genius API</code>
 </p>
 <!-- ========================= -->
 <!--        EDUCATION          -->
@@ -319,7 +392,7 @@ into software that can run reliably in production.
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/hamza1710/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muhammadhamzakhan/">LinkedIn</a>
   ·
   <a href="mailto:hamzakhan102003@gmail.com">Email</a>
 </p>
